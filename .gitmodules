@@ -1,0 +1,9 @@
+[submodule "my_plugins/vim-dim"]
+	path = my_plugins/vim-dim
+	url = git@github.com:jeffkreeftmeijer/vim-dim.git
+[submodule "my_plugins/vim-javascript"]
+	path = my_plugins/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "my_plugins/vim-jsx"]
+	path = my_plugins/vim-jsx
+	url = git@github.com:mxw/vim-jsx.git
